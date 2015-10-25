@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 66e5707bd6b32a74999ca283e6c93680
+timeCreated: 1445741282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: "Deckfl\xE4che_1"
+    100002: "Deckfl\xE4che_2"
+    100004: Extrudieren
+    100006: Joint_2
+    100008: Joint_3
+    100010: Joint_4
+    100012: Joint_5
+    100014: Joint_6
+    100016: Joint_7
+    100018: Joint_8
+    100020: Null_1
+    100022: Null_2
+    100024: Null_2_2
+    100026: Null_3
+    100028: //RootNode
+    100030: "W\xFCrfel"
+    100032: "W\xFCrfel_2"
+    100034: Zunge
+    400000: "Deckfl\xE4che_1"
+    400002: "Deckfl\xE4che_2"
+    400004: Extrudieren
+    400006: Joint_2
+    400008: Joint_3
+    400010: Joint_4
+    400012: Joint_5
+    400014: Joint_6
+    400016: Joint_7
+    400018: Joint_8
+    400020: Null_1
+    400022: Null_2
+    400024: Null_2_2
+    400026: Null_3
+    400028: //RootNode
+    400030: "W\xFCrfel"
+    400032: "W\xFCrfel_2"
+    400034: Zunge
+    2300000: "Deckfl\xE4che_1"
+    2300002: "Deckfl\xE4che_2"
+    2300004: Extrudieren
+    2300006: Null_2
+    2300008: Null_3
+    2300010: "W\xFCrfel"
+    2300012: "W\xFCrfel_2"
+    3300000: "Deckfl\xE4che_1"
+    3300002: "Deckfl\xE4che_2"
+    3300004: Extrudieren
+    3300006: Null_2
+    3300008: Null_3
+    3300010: "W\xFCrfel"
+    3300012: "W\xFCrfel_2"
+    4300000: Null_2
+    4300002: Extrudieren
+    4300004: "W\xFCrfel"
+    4300006: Zunge
+    4300008: "Deckfl\xE4che_1"
+    4300010: "Deckfl\xE4che_2"
+    4300012: "W\xFCrfel_2"
+    4300014: Null_3
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Zunge
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

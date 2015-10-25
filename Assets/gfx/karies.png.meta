@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 17893aa1fb86fda419596343ff631e28
+timeCreated: 1445777732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: karies_0
+    21300002: karies_1
+    21300004: karies_2
+    21300006: karies_3
+    21300008: karies_4
+    21300010: karies_5
+    21300012: karies_6
+    21300014: karies_7
+    21300016: karies_8
+    21300018: karies_9
+    21300020: karies_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: karies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 516
+        height: 696
+      alignment: 9
+      pivot: {x: .637276053, y: .00636081025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1352
+        width: 394
+        height: 696
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1352
+        width: 464
+        height: 696
+      alignment: 9
+      pivot: {x: .614312053, y: .0034795301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1352
+        width: 613
+        height: 696
+      alignment: 9
+      pivot: {x: .570766687, y: .0034795301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_4
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1353
+        width: 679
+        height: 695
+      alignment: 9
+      pivot: {x: .451488167, y: -1.75640736e-07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_5
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1351
+        width: 547
+        height: 697
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_6
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1353
+        width: 465
+        height: 695
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 486
+        height: 620
+      alignment: 9
+      pivot: {x: .591433525, y: -9.84437989e-08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 496
+        width: 400
+        height: 853
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 503
+        width: 442
+        height: 846
+      alignment: 9
+      pivot: {x: .585455298, y: -3.60727874e-08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karies_10
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 509
+        width: 618
+        height: 811
+      alignment: 9
+      pivot: {x: .323834747, y: .0027395077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
